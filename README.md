@@ -180,8 +180,17 @@ Focus: Multi-agent systems, LLMs, DeFi security, vulnerability detection, automa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NamelessMonsterr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=C9D1D9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamelessMonsterr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FD1C5&text_color=C9D1D9"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamelessMonsterr&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NamelessMonsterr&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NamelessMonsterr&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NamelessMonsterr&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NamelessMonsterr&theme=tokyonight&utcOffset=5.5"/>
 
 <br/>
 
