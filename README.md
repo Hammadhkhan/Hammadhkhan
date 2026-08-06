@@ -185,7 +185,7 @@ Focus: Multi-agent systems, LLMs, DeFi security, vulnerability detection, automa
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NamelessMonsterr&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FD1C5&ring=4FD1C5&fire=A371F7&currStreakLabel=4FD1C5"/>
+<img src="https://streak-stats.demolab.com?user=NamelessMonsterr&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FD1C5&ring=4FD1C5&fire=A371F7&currStreakLabel=4FD1C5"/>
 
 <br/>
 
