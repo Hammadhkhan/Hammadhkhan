@@ -199,6 +199,16 @@ Focus: Multi-agent systems, LLMs, DeFi security, vulnerability detection, automa
 
 <br/>
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NamelessMonsterr/NamelessMonsterr/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+<br/>
+
 ## 🌟 2026 Goals
 
 - 🚀 Contribute consistently to open source
